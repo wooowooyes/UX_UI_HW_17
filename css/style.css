@@ -1,3 +1,21 @@
 p{
     color: blue;
 }
+
+.hero{
+display: flex;
+justify-content: center;
+align-items: center;
+width:auto;
+}
+
+.navigation{
+display: flex;
+justify-content: center;
+align-items: center;
+width: auto;
+}
+
+ul{
+    list-style-type: none;
+}
