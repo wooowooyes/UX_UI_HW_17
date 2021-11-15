@@ -10,7 +10,7 @@
         }
         
         .headerContainer {
-            background-image: url(/images/Group\ 28\ \(1\).png);
+            background-image: url(/images/bliss2.jpeg);
             background-repeat: no-repeat;
             background-size: cover;
             height: 75vh;
@@ -28,12 +28,9 @@
             margin-bottom: 0;
             background-size: cover;
             flex-direction: row;
-            size: 40%;
         }
         
-        .textcontainer {
-            size: 30%;
-        }
+        .textcontainer {}
         
         .me {
             display: flex;
